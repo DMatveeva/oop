@@ -1,2 +1,5 @@
 Вывод из консоли на экран:
-![альтернативный текст](путь_к_файлу)
+
+![Рис. 1](https://github.com/DMatveeva/oop/blob/main/img/python1.PNG)
+
+
