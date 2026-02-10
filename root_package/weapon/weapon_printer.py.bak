@@ -1,0 +1,2 @@
+def weapon_to_string(weapon):
+        return "Оружие: " + weapon.name + ". Урон: " + str(weapon.damage)
